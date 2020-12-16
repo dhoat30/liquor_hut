@@ -16,6 +16,13 @@
     font-family: sans-serif;
     letter-spacing: 0.04em;
   }
+  @media(max-width:400px){
+    img{
+        width: 95%;
+        
+    }
+  }
+
   .container{
       background:  rgb(228, 77, 38);
       width: 100%;
@@ -34,28 +41,33 @@
       width: 300px;
       margin: 10px auto;
       height: 30px;
+      background-color: rgb(228, 77, 38);
+      border: 2px solid white;
+      color: white;
   }
 option{
       text-transform: uppercase !important; 
+
   }
   button{
       display: block;
       margin: 0 auto;
-      width: 150px;
-      background: black;
-      border: 2px solid black;
-      color: white;
+      width: 300px;
+      background: white;
+      border: 2px solid white;
+      color: black;
       height: 30px;
       transition: 500ms ease-in-out; 
       cursor: pointer !important;
+      font-size: 18px;
   }
   button:hover{
     display: block;
     margin: 0 auto;
-    width: 150px;
+    width: 300px;
     background: none;
     color: white;
-    border: 2px solid black;
+    border: 2px solid white;
     height: 30px;
 }
 button:active{
