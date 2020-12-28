@@ -15,6 +15,7 @@ get_header();
                 <option value="rotorua">Rotorua</option>
                 <option value="tokoroa">Tokoroa</option>
                 <option value="kawerau">Kawerau</option>
+
             </select>
             <button type='submit'>Go</button>
         </form>

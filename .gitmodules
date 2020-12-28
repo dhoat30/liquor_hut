@@ -1,0 +1,6 @@
+[submodule "liquorHutMount"]
+	path = liquorHutMount
+	url = https://github.com/dhoat30/liquor-hut-otahuhu.git
+[submodule "mount"]
+	path = mount
+	url = https://github.com/dhoat30/liquor-hut-otahuhu.git
