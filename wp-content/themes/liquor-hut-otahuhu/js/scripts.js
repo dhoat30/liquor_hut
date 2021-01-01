@@ -8,6 +8,14 @@ $('button').on('click', (e) => {
     console.log(val)
 
     if (val === 'Mount Maunganui') {
-        window.location.href = `${window.location.href}/mount`;
+        window.location.href = `${window.location.href}/mount-maunganui`;
+    } else if (val === 'Otahuhu') {
+        window.location.href = `${window.location.href}/otahuhu`;
+    } else if (val === 'Rotorua') {
+        window.location.href = `${window.location.href}/rotorua`;
+    } else if (val === 'Tokoroa') {
+        window.location.href = `${window.location.href}/tokoroa`;
+    } else if (val === 'Kawerau') {
+        window.location.href = `${window.location.href}/kawerau`;
     }
 })
