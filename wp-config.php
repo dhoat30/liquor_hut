@@ -26,9 +26,10 @@ if(strstr($_SERVER['SERVER_NAME'], 'localhost')){
 	define( 'DB_PASSWORD', 'root' );
 	define( 'DB_HOST', '127.0.0.1' );
 }
-else{ 
-	define( 'DB_NAME', 'dbdbvc4hdrpdp5');
-	define( 'DB_USER', 'ugpyjfbav3dpvm');
+
+else{
+	define( 'DB_NAME', 'dbfp3gbcvecubn');
+	define( 'DB_USER', 'ugpyjfbav3dpv');
 	define( 'DB_PASSWORD', '(3(4jbol}1c6');
 	define( 'DB_HOST', '127.0.0.1' );
 }
