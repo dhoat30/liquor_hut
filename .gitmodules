@@ -7,3 +7,18 @@
 [submodule "mount-maunganui"]
 	path = mount-maunganui
 	url = https://github.com/dhoat30/liquor-hut-otahuhu.git
+[submodule "satnam_ngo"]
+	path = satnam_ngo
+	url = https://github.com/dhoat30/satnam_ngo.git
+[submodule "liquor-hut-otahuhu"]
+	path = liquor-hut-otahuhu
+	url = https://github.com/dhoat30/liquor-hut-otahuhu.git
+[submodule "liquorHutOtahuhu"]
+	path = liquorHutOtahuhu
+	url = https://github.com/dhoat30/liquorHutOtahuhu.git
+[submodule "othhu"]
+	path = othhu
+	url = https://github.com/dhoat30/liquorHutOtahuhu.git
+[submodule "otahuhu"]
+	path = otahuhu
+	url = https://github.com/dhoat30/liquorHutOtahuhu.git

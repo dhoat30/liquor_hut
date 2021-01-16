@@ -21,7 +21,7 @@
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 if(strstr($_SERVER['SERVER_NAME'], 'localhost')){
-	define( 'DB_NAME', 'mount' );
+	define( 'DB_NAME', 'liquorHut' );
 	define( 'DB_USER', 'root' );
 	define( 'DB_PASSWORD', 'root' );
 	define( 'DB_HOST', '127.0.0.1' );

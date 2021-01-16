@@ -10,7 +10,7 @@ $('button').on('click', (e) => {
     if (val === 'Mount Maunganui') {
         window.location.href = `${window.location.href}/mount-maunganui`;
     } else if (val === 'Otahuhu') {
-        window.location.href = `${window.location.href}/otahuhu`;
+        window.location.href = `${window.location.href}otahuhu`;
     } else if (val === 'Rotorua') {
         window.location.href = `${window.location.href}/rotorua`;
     } else if (val === 'Tokoroa') {
