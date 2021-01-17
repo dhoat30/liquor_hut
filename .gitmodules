@@ -22,3 +22,12 @@
 [submodule "otahuhu"]
 	path = otahuhu
 	url = https://github.com/dhoat30/liquorHutOtahuhu.git
+[submodule "rotorua"]
+	path = rotorua
+	url = https://github.com/dhoat30/rotorua.git
+[submodule "kawerau"]
+	path = kawerau
+	url = https://github.com/dhoat30/kawerau.git
+[submodule "tokoroa"]
+	path = tokoroa
+	url = https://github.com/dhoat30/tokoroa.git
